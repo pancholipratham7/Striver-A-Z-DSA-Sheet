@@ -2,6 +2,7 @@
 #include<vector>
 using namespace std;
 
+// Leetcode
 
 vector<int> leaders(int a[], int n){
         // Code here
